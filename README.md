@@ -1,7 +1,10 @@
 # Projeto lógico de banco de dados
 Implementação do projeto lógico de banco de dados para um cenário E-commerce.
+
 Primeiramente, foi apresentado a modalagem de referência, feita pela professora Juliana Mascarenahs. Os scripts estão disponíveis no diretório /scripts.
+
 Diante disso, foi feita uma modelagem refinada conforme FIGURA 1, disponível neste repositório.
+
 Em seguida os seguintes passos foram executados:
 1. Criação dos Scripts SQL para criação do esquema do banco de dados. O arquivo está disponível no diretório /scripts-refinados/scripts.sql
 2. Inserção dos dados. Arquivo disponível no diretório /scripts-refinados/insert-data.sql¹
