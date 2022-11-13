@@ -6,10 +6,11 @@ Primeiramente, foi apresentado a modalagem de referência, feita pela professora
 Diante disso, foi feita uma modelagem refinada conforme FIGURA 1, disponível neste repositório.
 
 Em seguida os seguintes passos foram executados:
-1. Criação dos Scripts SQL para criação do esquema do banco de dados. O arquivo está disponível no diretório /scripts-refinados/scripts.sql
-2. Inserção dos dados. Arquivo disponível no diretório /scripts-refinados/insert-data.sql¹
+1. Criação dos Scripts SQL para criação do esquema do banco de dados. O arquivo scripts.sql está disponível no diretório /scripts-refinados
+2. Inserção dos dados. O arquivo insert-data.sql¹ disponível no diretório /scripts-refinados
+3. Criação de consultas SQL, apresentadas a seguir e disponível no diretório /scripts-refinados, chamada de querys.sql
 
-Diante disso, abaixo uma amostra dos resultados obtidos:
+Diante disso, abaixo demonstração dos resultados obtidos:
 
 ## Quantos pedidos foram feitos por cada cliente?
 ```bash
